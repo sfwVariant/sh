@@ -35,7 +35,7 @@ NODES=(
     "https://github.com/1038lab/ComfyUI-RMBG"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/Acly/comfyui-inpaint-nodes"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    # "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/tester4488/mc_qwen"
     "https://github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
