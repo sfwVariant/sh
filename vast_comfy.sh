@@ -44,6 +44,7 @@ NODES=(
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
+    "https://github.com/audioscavenger/save-image-extended-comfyui"
 )
 
 WORKFLOWS=(
