@@ -45,6 +45,8 @@ NODES=(
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
     "https://github.com/audioscavenger/save-image-extended-comfyui"
+    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
+    "https://github.com/PozzettiAndrea/ComfyUI-SAM3"
 )
 
 WORKFLOWS=(
