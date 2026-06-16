@@ -37,7 +37,7 @@ NODES=(
     "https://github.com/Acly/comfyui-inpaint-nodes"
     # "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/jags111/efficiency-nodes-comfyui"
-    "https://github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
+    "https://github.com/siraxe/ComfyUI-SA-Nodes-QQ"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
     "https://github.com/chflame163/ComfyUI_LayerStyle_Advance"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
